@@ -1,0 +1,36 @@
+header{
+    background-color: black;
+    padding: 4rem;
+    margin: 2rem;
+}
+footer{
+    background-color: black;
+    padding: 2rem;
+    margin: 2rem;
+}
+h1{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.texto{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.sushi{
+    max-width: 50rem;
+    max-height: 50rem;
+}
+li{
+    list-style: none;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+nav .menu{
+    display: flex;
+    justify-content: space-between;
+}
